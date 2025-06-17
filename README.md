@@ -1,6 +1,10 @@
-# js的一些思考
+# js
 - [原型链](docs/js/prototypeChain.md)
 - [generator/yield运行机制](docs/js/generator.md)
 
-# rust的一些思考
-- [send与sync是什么](docs/rust/fearlessConcurrency.md)
+# rust
+- [send与sync](docs/rust/fearlessConcurrency.md)
+
+# golang
+- [interface与nil](docs/golang/nil.md)
+- [goalng为什么和js相似](docs/golang/equal.md)
