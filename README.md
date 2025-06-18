@@ -10,3 +10,4 @@
 # golang
 - [interface与nil](docs/golang/nil.md)
 - [goalng为什么和js相似](docs/golang/equal.md)
+- [泛型](docs/golang/genericType.md)
