@@ -38,7 +38,7 @@ type MyInt int
 此处的MyInt是int的别名，它们不是同一层级的，int是真实的“本质”，MyInt是虚假的别名“形式”。
 
 ```golang
-type AInt int
+type AInt = int
 ```
 此处是定义了一个新类型AInt，与int是同一层级，都属于“本质”
 
